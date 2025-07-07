@@ -1,3 +1,2 @@
-![AndraHen's Stats](https://github-readme-stats.vercel.app/api?username=AndraHen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AndraHen's Stats](https://github-readme-stats-six-mocha-64.vercel.app/api?username=AndraHen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![AndraHen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndraHen&theme=vue-dark&hide_border=true)
-![AndraHen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndraHen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
