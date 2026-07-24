@@ -22,14 +22,14 @@ I care about reliability, observability, and building things that actually hold 
 - **E-commerce & payments** — digital goods purchase flows, biller integrations, idempotency, 10k RPS peak
 - **Analytics & big data** — dashboard APIs, data pipelines, reconciliation, cloud cost forecasting
 - **Enterprise tooling** — ticketing systems, secure document storage, audit trails, SLA automation
-- **Platform** — AWS (ECS, Lambda, RDS, SQS/SNS), Redis, Datadog, GitHub Actions, Docker
+- **Platform** — AWS (ECS, Lambda, RDS, SQS/SNS), Datadog, GitHub Actions, Docker
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AndraHen&theme=vue-dark&hide_border=true&ring=79A500&fire=79A500&currStreakLabel=79A500"  alt=""/>
+  <img src="https://streak-stats.demolab.com/?user=AndraHen&theme=vue-dark&hide_border=true&ring=79A500&fire=79A500&currStreakLabel=79A500&v=1"  alt=""/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
