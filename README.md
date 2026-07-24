@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Andra%20Hendisutio&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Engineer&descAlignY=68&descSize=17" width="100%" alt=""/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=79A500&center=true&vCenter=true&width=520&lines=Go+%7C+Java+%7C+Python+%7C+TypeScript;Fintech+%7C+E-Commerce+%7C+Big+Data;Cloud+%7C+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=79A500&center=true&vCenter=true&width=520&lines=Go+%7C+Java+%7C+Python+%7C+TypeScript;Fintech+%7C+E-Commerce+%7C+Big+Data;Agentic+AI+%7C+LLM+Pipelines+%7C+RAG;Cloud+%7C+Full-Stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
